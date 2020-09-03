@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-import { Typography, Paper} from '@material-ui/core'
+import { CssBaseline} from '@material-ui/core'
 import {ThemeProvider} from '@material-ui/styles'
 
 
@@ -12,10 +12,9 @@ import Header from './components/header.jsx'
 const App = () => {
 
   return(
-    <ThemeProvider  theme={myTheme}>
+    <ThemeProvider theme={myTheme}>
+      <CssBaseline />
       <Header />
-      <Paper style={myTheme.palette.companyNeutral, {height: '100vh'}} >
-      </Paper>
     </ThemeProvider>
   );
 
