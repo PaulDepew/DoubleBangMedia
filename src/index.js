@@ -9,7 +9,7 @@ import myTheme from './theme.js'
 import Header from './components/header.jsx'
 
 
-const Home = () => {
+const App = () => {
 
   return(
     <ThemeProvider  theme={myTheme}>
@@ -22,4 +22,4 @@ const Home = () => {
 };
 
 const root = document.getElementById('root');
-ReactDOM.render(<Home />, root);
+ReactDOM.render(<App />, root);
