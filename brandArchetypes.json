@@ -1,0 +1,109 @@
+[
+{
+    "name": "The Innocent",
+    "description": "Also known as the Dreamer or the Romantic, they desire freedom, hapiness and fun. They love to be optimistic and enthusiastic in the things that engage them.",
+    "leverage": " Innocent brands should adopt an honest, optimistic brand personality that conveys that you see the beauty in everyone and everything. Emphasize simplicity and happiness, and avoid messaging that conveys negativity or guilt. You want your audience to associate your brand with safety and trust.",
+    "examples": [
+        "Coca-Cola", "Nintendo", "Dove"
+    ],
+    "image": "https://images.pexels.com/photos/4409279/pexels-photo-4409279.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+},
+{
+    "name": "The Everyman",
+    "description": "Seeks connections and belonging; is recognized as supportive, faithful and down-to-earth.",
+    "leverage": " Use honest, down-to-earth messaging that never excludes. Everyman brands should be humble and authentic, promoting harmony and trust. Moderation in all things is key for Everyman brands, as they aim to blend in without being too loud or obnoxious or too funny, which can hinder the brand’s goal to be taken seriously and sincerely. Elitist messaging can be a turn-off for these audiences. Keep in mind that the Everyman brand, aiming to blend in, risks being easily forgotten.",
+    "examples": [
+        "IKEA", "Home Depot", "eBay"
+    ],
+    "image": "https://images.pexels.com/photos/697243/pexels-photo-697243.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+},
+{
+    "name": "The Hero",
+    "description": "On a mission to make the world a better place, the Hero is courageous, bold, inspirational.",
+    "leverage": "Your brand voice should convey your grit and determination, empowering your audience to succeed, grow, and realize their full potential. Inspire your audience to rise to the occasion and dare to do what few attempt.",
+    "examples": [
+        "Nike", "BMW", "Duracell"
+    ],
+    "image": "https://images.unsplash.com/photo-1513384312027-9fa69a360337?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1051&q=80"
+},
+{
+    "name": " The Maverick",
+    "description": "Questions authority and breaks the rules; the Maverick craves rebellion and revolution. ",
+    "leverage": " Let your audience know they don’t have to settle for the status-quo. Use a brand voice with attitude, showing disdain for conformity and encouraging or facilitating revolution to inspire your audience to break free from the status-quo. The well-executed Maverick brand often builds a cult following.",
+    "examples": [
+        "Virgin", "Harley-Davidson", "Jack Daniels"
+    ],
+    "image": "https://images.unsplash.com/photo-1500483195655-26535afa7a3f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80"
+},
+{
+    "name": "The Explorer",
+    "description": "Finds inspiration in travel, risk, discovery, and the thrill of new experiences. ",
+    "leverage": "The Explorer brand’s audience is brave and adventurous, seeking self-discovery and exploration. Explorer brands should challenge their audiences, promoting the exploration of the outdoors or the unknown with the confidence that they can conquer the world (using your products or services, naturally).",
+    "examples": [
+        "Jeep", "Red Bull", "REI"
+    ],
+    "image": "https://images.pexels.com/photos/2695232/pexels-photo-2695232.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+},
+{
+    "name": "The Creator",
+    "description": "Imaginative, inventive and driven to build things of enduring meaning and value. ",
+    "leverage": "The Creator brand should be inspiring and daring, even provocative. Focus imagination and self-expression, stirring your audience’s desire to create and innovate.",
+    "examples": [
+        "Lego", "Crayola", "Adobe"
+    ],
+    "image": "https://images.pexels.com/photos/3894557/pexels-photo-3894557.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+},
+{
+    "name": "The Lover",
+    "description": "Creates intimate moments, inspires love, passion, romance and commitment.",
+    "leverage": "Use an empathetic and soothing brand voice, catering to your audience’s desire for connection and intimacy. Appeal to your audience’s senses through sight, sound, smell, and touch to leverage your audience’s desire for pleasure. Invite them to participate in an indulgent experience.",
+    "examples": [
+       " Victoria’s Secret", "Chanel"," Haagen Dazs"
+    ],
+    "image": "https://images.pexels.com/photos/236287/pexels-photo-236287.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+},{
+    "name": "The Ruler",
+    "description": "Creates order from the chaos, the Ruler is typically controlling and stern, yet responsible and organized.",
+    "leverage": "Ruler brands should focus on exerting leadership and demonstrating superiority, appealing to the consumer who won’t settle for anything less than the best. Make your audience feel like they’re members of an ultra-exclusive club (when they use your products or services, of course). Forget about appealing to the masses; Ruler brands should cater to a specific niche audience that demands luxury and seeks status.",
+    "examples": [
+        "Mercedes-Benz", "Microsoft", "British Airways"
+    ],
+    "image": "https://images.pexels.com/photos/2214590/pexels-photo-2214590.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+},
+{
+    "name": "The Magician",
+    "description": "Wishes to create something special and make dreams a reality, the Magician is seen as visionary and spiritual. ",
+    "leverage": "Using imaginative and inspiring messaging, make your audience feel like they’ll be better, wiser, or influential by using your products or services. Focus on the transformative experience: from sickness to health, from aging to youthful, chaotic to organized, inefficient to productive, etc. It’s worth noting that the Magician doesn’t typically have a matching buyer persona; instead, the Magician brand can appeal to a variety of personas with their transformative focus.",
+    "examples": [
+        "Apple", "Disney", "Absolut"
+    ],
+    "image": "https://images.pexels.com/photos/2370726/pexels-photo-2370726.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+},
+{
+    "name": "The Caregiver",
+    "description": "Protects and cares for others, is compassionate, nurturing and generous.",
+    "leverage": "The Caregiver brand should communicate in a warm, reassuring, and compassionate brand voice. Your aim is to make your audience feel secure and cared for, so consider messaging that’s educational and evokes the conscience.",
+    "examples": [
+       " Johnson & Johnson", "Campbell’s Soup", "UNICEF"
+    ],
+    "image": "https://images.pexels.com/photos/3893532/pexels-photo-3893532.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+},
+{
+    "name": "The Jester",
+    "description": "Brings joy to the world through humor, fun, irreverence and often likes to make some mischief. ",
+    "leverage": "The Jester brand should have a fun-loving, playful brand personality and voice. Focus on promoting the good times and making your audience laugh. The Jester brand archetype doesn’t often fit a specific brand persona, but can appeal to a variety of personas by differentiating themselves with a fun-loving attitude.",
+    "examples": [
+        "Old Spice", "Ben & Jerry’s"," M&Ms"
+    ],
+    "image": "https://images.unsplash.com/photo-1587331722574-acf78f587c4e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=675&q=80"
+},
+{
+    "name": "The Sage",
+    "description": "Committed to helping the world gain deeper insight and wisdom, the Sage serves as the thoughtful mentor or advisor. ",
+    "leverage": "Help your consumers better understand the world by providing practical information, expert advice, and analysis with a knowledgeable, assured, and guiding brand voice. Appeal to your audience’s desire for knowledge, with a brand voice that incorporates a higher-level vocabulary and philosophical meaning, providing thoroughly researched and factual information to inform.",
+    "examples": [
+        "Google", "PBS", "Philips"
+    ],
+    "image": "https://images.pexels.com/photos/4552177/pexels-photo-4552177.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+}
+]
