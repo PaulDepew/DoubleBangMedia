@@ -1,7 +1,7 @@
 import { createMuiTheme } from '@material-ui/core/styles';
 
 const myTheme = createMuiTheme({
-    palette: {
+     palette: {
         type: 'dark',
         primary: { 
           main: '#5898b5',
@@ -26,6 +26,9 @@ const myTheme = createMuiTheme({
         },
         companyNeutral: {
             backgroundColor: '#333333',
+        },
+        background: {
+            default: '#333333'
         }
     },
     logo: {

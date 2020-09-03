@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "homepage": ".",
   "scripts": {
     "start": "react-scripts start",
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -20,7 +21,9 @@
     "node-sass": "^4.14.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "^3.4.3"
+    "react-hooks-helper": "^1.6.0",
+    "react-scripts": "^3.4.3",
+    "react-typing-animation": "^1.6.2"
   },
   "devDependencies": {
     "enzyme": "^3.11.0",
